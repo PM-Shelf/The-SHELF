@@ -27,7 +27,7 @@ The following are the guidelines to follow to contribute to the Library
 **Maintainer's and Reviwer's Tag**\
 These are our reviwer's | maintainer's, Please tag any in your issues
 - [Harmony Elendu](https://github.com/harmonyelendu)
-- [Prince xxxxx]
+- [Prince Ibezim](https://github.com/PrinceKae)
 
 **Resources Provided for You** \
 Here is a list of not more than 10 links we think will be helpful to you as a PM
