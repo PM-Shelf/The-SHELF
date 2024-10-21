@@ -1,6 +1,7 @@
 # Welccome to  the PM Shelf
-Just Like Book Shelf but this will be for API for Product and Project Manager's --- were anyone and everyone will get direct links to API needed for their Product 
-We wil be covering and keeping track of all API and companies mentioned in our Repo ensuring that every visitor or user will be able to get the right informations including the status and direct link to it's documentation. For now we are going to focus in these indsutries [Blockchain | Fintech | Edtech | Verification(KYC) and more]
+Just Like Book Shelf but this will be for API for Product and Project Manager's --- were anyone and everyone will get direct links to API needed for their Product. \
+We wil be covering and keeping track of all API and companies mentioned in our Repo, ensuring that every visitor or user will be able to get the right informations including the status and direct link to it's documentation. For now we are going to focus in these indsutries [Blockchain | Fintech | Edtech | Verification(KYC) and more] \
+Addittionally we will be provided diverse resources from templates, Links to certifications and more, that will enable Aspring Project and Product Manager to get better in their career journey. 
 
 **Table Title Meanings** \
 Here are the list of table tiltes and the meaning of the details they will carry 
@@ -11,14 +12,14 @@ Here are the list of table tiltes and the meaning of the details they will carry
 - **API:** Will contain link to the direct API documents
 - **Website:** Direct link to the Company website 
 - **License:** Will identify the licenses they operate on 
-- **Currency:** This will be captured for Payements related API's. Basically identifying the Currency they operate on. 
-- **Region:** The area or region they completely operate in. 
+- **Currency:** This will be captured for Payments related API's. Basically identifying the Currency they operate on. ex NGN USD 
+- **Region:** The area or region they completely operate in
 
 **Shortcuts** \
 Here are direct links to the section of the Library 
 
-**How you can Contribute to Library** \
-The following are the guidelines to follow to contribute to the Library
+**How you can Contribute to the SHELF** \
+The following are the guidelines to follow to contribute to the SHELF
 - Create an issue with a proper title 
 - Fill in the following details provided in the issue template. 
 - Tag any of the maintainers as provided in this doc. 
