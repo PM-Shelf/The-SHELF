@@ -16,9 +16,10 @@ Here are the list of table tiltes and the meaning of the details they will carry
 - **Region:** The area or region they completely operate in
 
 **Shortcuts** \
-Here are direct links to the section of the Library 
-[SHELF Resources](https://github.com/PM-Shelf/The-SHELF/blob/main/Shelf%20Resources.md)
-[API SHELF]()
+Here are direct links to the section of the Library \
+[API SHELF](https://github.com/PM-Shelf/The-SHELF/blob/main/The%20SHELF.md) \
+[SHELF Resources](https://github.com/PM-Shelf/The-SHELF/blob/main/Shelf%20Resources.md) 
+
 
 **How you can Contribute to the SHELF** \
 The following are the guidelines to follow to contribute to the SHELF
