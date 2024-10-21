@@ -17,6 +17,8 @@ Here are the list of table tiltes and the meaning of the details they will carry
 
 **Shortcuts** \
 Here are direct links to the section of the Library 
+[SHELF Resources](https://github.com/PM-Shelf/The-SHELF/blob/main/Shelf%20Resources.md)
+[API SHELF]()
 
 **How you can Contribute to the SHELF** \
 The following are the guidelines to follow to contribute to the SHELF
