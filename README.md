@@ -1,4 +1,4 @@
-# Welccome to  the PM Shelf
+# Welcome to  the PM Shelf
 Just Like Book Shelf but this will be for API for Product and Project Manager's --- were anyone and everyone will get direct links to API needed for their Product. \
 We wil be covering and keeping track of all API and companies mentioned in our Repo, ensuring that every visitor or user will be able to get the right informations including the status and direct link to it's documentation. For now we are going to focus in these indsutries [Blockchain | Fintech | Edtech | Verification(KYC) and more] \
 Addittionally we will be provided diverse resources from templates, Links to certifications and more, that will enable Aspring Project and Product Manager to get better in their career journey. 
