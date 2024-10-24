@@ -3,7 +3,7 @@
 🎉Take a sit with your favorite cup lets find the perfect api you need together!🎉 \
 If you need to know how this file function check [Here](https://github.com/PM-Shelf/Shelf-/blob/main/README.md)
 
-# Blockchian 
+# Blockchain
 Here is the section for everything relating to blockchain and onchain 
 | Company | Website | Model | Services | API | License | Currency | Region | Status |
 |-----------------|---------|-------|----------|----------|---------|----------|--------|--------|
