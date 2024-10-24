@@ -28,7 +28,7 @@ The following are the guidelines to follow to contribute to the SHELF
 - Tag any of the maintainers as provided in this doc. 
 - Expect a feedback once it's verified and updated.
 
-**Maintainer's |  Reviwer's Tag**\
+**Maintainer's |  Reviewer's Tag**\
 These are our reviwer's | maintainer's, Please tag any in your issues
 - [Harmony Elendu](https://github.com/harmonyelendu)
 - [Prince Ibezim](https://github.com/PrinceKae)
