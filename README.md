@@ -32,6 +32,7 @@ The following are the guidelines to follow to contribute to the SHELF
 These are our reviwer's | maintainer's, Please tag any in your issues
 - [Harmony Elendu](https://github.com/harmonyelendu)
 - [Prince Ibezim](https://github.com/PrinceKae)
+- [Olagoke Oyetunji](https://github.com/)
 
 **Resources Provided for You** \
 Here is a list of not more than 10 links we think will be helpful to you as a PM
