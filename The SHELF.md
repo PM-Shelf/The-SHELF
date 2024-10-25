@@ -9,6 +9,13 @@ Here is the section for everything relating to blockchain and onchain
 |-----------------|---------|-------|----------|----------|---------|----------|--------|--------|
 | CoinsPaid | [Click](https://coinspaid.com/) | B2B  | Wallet, OTC, Payment gateway etc | [Docs](https://docs.cryptoprocessing.com/) | None | Eth, BTC, BnB and more | Worldwide | verified |
 
+# Logistics | Transportation 
+Anything and everything logistics | transport 
+| Name of Company | Website | Model | Services | API link | License | Currency | Region | Status |
+|-----------------|---------|-------|----------|----------|---------|----------|--------|--------|
+| Sample | Sample | sample  | Sample | sample| sample | sample  | sample | sample |
+
+
 # Fintech (Payments)
 Anything fintech related 
 | Name of Company | Website | Model | Services | API link | License | Currency | Region | Status |
@@ -24,4 +31,5 @@ Anything KYC and Verfication
 | Sample | Sample | sample  | Sample | sample| sample | sample  | sample | sample |
 | Sample | Sample | sample  | Sample | sample| sample | sample  | sample | sample |
 | Sample | Sample | sample  | Sample | sample| sample | sample  | sample | sample |
+
 
