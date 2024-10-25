@@ -21,15 +21,18 @@ Anything fintech related
 | Name of Company | Website | Model | Services | API link | License | Currency | Region | Status |
 |-----------------|---------|-------|----------|----------|---------|----------|--------|--------|
 | Sample | Sample | sample  | Sample | sample| sample | sample  | sample | sample |
-| Sample | Sample | sample  | Sample | sample| sample | sample  | sample | sample |
-| Sample | Sample | sample  | Sample | sample| sample | sample  | sample | sample |
+
 
 # Verification (KYC)
 Anything KYC and Verfication
 | Name of Company | Website | Model | Services | API link | License | Currency | Region | Status |
 |-----------------|---------|-------|----------|----------|---------|----------|--------|--------|
 | Sample | Sample | sample  | Sample | sample| sample | sample  | sample | sample |
-| Sample | Sample | sample  | Sample | sample| sample | sample  | sample | sample |
+
+# Health | Pharmaceuticals
+Anything and everything health related 
+| Name of Company | Website | Model | Services | API link | License | Currency | Region | Status |
+|-----------------|---------|-------|----------|----------|---------|----------|--------|--------|
 | Sample | Sample | sample  | Sample | sample| sample | sample  | sample | sample |
 
 
